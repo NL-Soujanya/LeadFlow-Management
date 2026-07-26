@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LeadFlow — Lead Management Platform
 
 A lead management application for small sales teams. Public capture form, authenticated admin/member app, lead lifecycle pipeline, notes, activity trail, and a documented JSON API.
@@ -350,3 +351,6 @@ supabase/
 As required by the task, every page includes a visible footer credit:
 
 > **Built for Digital Heroes Training Task** — linked to [digitalheroesco.com](https://digitalheroesco.com)
+=======
+# LeadFlow-Management
+>>>>>>> 91a7f827b79b22034de037fe8b842deaaaa744cc
