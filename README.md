@@ -3,7 +3,10 @@
 A lead management application for small sales teams built using **React, TypeScript, Express.js, and MySQL**.
 
 **Built for Digital Heroes Training Task** — https://digitalheroesco.com
+## Repository
 
+GitHub Repository:
+https://github.com/NL-Soujanya/LeadFlow-Management
 ---
 
 ## Demo Credentials
@@ -28,6 +31,16 @@ A lead management application for small sales teams built using **React, TypeScr
 - Cannot delete leads or modify restricted fields
 
 ---
+## Features
+
+- User Authentication (JWT)
+- Role-Based Access Control (Admin & Member)
+- Lead Management (Create, Read, Update, Delete)
+- Lead Assignment
+- Lead Notes
+- Dashboard Statistics
+- Responsive UI
+- RESTful API
 
 ## Tech Stack
 
@@ -46,15 +59,19 @@ A lead management application for small sales teams built using **React, TypeScr
 
 ## Architecture
 
-Frontend (React + Vite)
-
-↓
-
-REST API (Express.js)
-
-↓
-
-MySQL Database
++----------------------+
+| React + Vite Frontend|
++----------+-----------+
+           |
+           v
++----------------------+
+| Express.js REST API  |
++----------+-----------+
+           |
+           v
++----------------------+
+|    MySQL Database    |
++----------------------+
 
 ---
 
